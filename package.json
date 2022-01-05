@@ -1,0 +1,22 @@
+{
+  "name": "ezekieljcrm",
+  "version": "0.0.1",
+  "description": "Custom CRM for EzekielJ Consulting Services",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EzekielJConsulting/EzekielJCRM.git"
+  },
+  "author": "Ezekiel J Hammond",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EzekielJConsulting/EzekielJCRM/issues"
+  },
+  "homepage": "https://github.com/EzekielJConsulting/EzekielJCRM#readme",
+  "dependencies": {
+    "mariadb": "^2.5.5"
+  }
+}
